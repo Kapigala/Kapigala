@@ -25,7 +25,6 @@
 ![Google Collabolatory](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
-
---![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
+<![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kapigala&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
